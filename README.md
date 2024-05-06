@@ -1,4 +1,4 @@
-# CLAP
+# L-CLAP
 <p align="center">
   <img src="https://raw.githubusercontent.com/LAION-AI/CLAP/main/assets/logo.PNG" alt="The Contrastive Language-Audio Pretraining Model Architecture" width="60%"/>
 </p>
